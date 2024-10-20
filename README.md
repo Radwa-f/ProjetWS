@@ -2,11 +2,15 @@
 
 ## Description
 
-Ce projet consiste à développer une application Android dédiée aux étudiants, ou on pourra stocker un ensemble d'etudiants dans un server. 
-L'application comprend trois activités principales : un écran d'accueil, un formulaire, et la liste des etudiants avec ces fonctionnalité.
+Ce projet a pour objectif de développer une application Android dédiée à la gestion d'étudiants, permettant de stocker leurs informations sur un serveur. L'application comporte trois activités principales : un écran d'accueil, un formulaire de saisie, et une interface de gestion des étudiants.
 
-L'écran d'accueil introduit l'utilisateur à l'application, le formulaire permet a l'utilisateur de remplir ses données, photo, nom, prenom, ville et sexe, 
-l'activité de la liste permet de visualiser la liste des etudiants stocker dans la base de donnée en plus de la possibilité de supprimer, rechercher, ou modifier un element de la liste.
+- Écran d'accueil : Il introduit l'utilisateur à l'application et lui permet de naviguer vers les autres fonctionnalités.
+  
+- Formulaire : Il permet à l'utilisateur de remplir ses informations, incluant une photo, le nom, le prénom, la ville et le sexe.
+  
+- Liste des étudiants : Cette activité affiche la liste des étudiants stockés dans la base de données, avec des fonctionnalités supplémentaires telles que la suppression, la recherche et la modification des informations des étudiants.
+  
+L'application offre ainsi une interface simple et intuitive pour gérer les données des étudiants de manière efficace.
 
 ## Vidéo Démonstrative
 
